@@ -1,0 +1,96 @@
+{
+  "aggregate": {
+    "hits": 5,
+    "misses": 0,
+    "partial_hits": 0,
+    "top3_hit_rate": 1.0,
+    "total_queries": 5
+  },
+  "queries": [
+    {
+      "expected_doc_titles": [
+        "Cash withdrawal processing"
+      ],
+      "explanation": "Matched 1 of 1 expected title(s) in the top 3 at rank(s): Cash withdrawal processing=1.",
+      "matched_expected_title": true,
+      "matched_expected_titles": [
+        "Cash withdrawal processing"
+      ],
+      "query_id": "Q1",
+      "retrieval_status": "hit",
+      "retrieved_doc_titles_top3": [
+        "Cash withdrawal processing",
+        "Document verification requirements",
+        "Demo account behaviour"
+      ]
+    },
+    {
+      "expected_doc_titles": [
+        "Password reset and account recovery"
+      ],
+      "explanation": "Matched 1 of 1 expected title(s) in the top 3 at rank(s): Password reset and account recovery=1.",
+      "matched_expected_title": true,
+      "matched_expected_titles": [
+        "Password reset and account recovery"
+      ],
+      "query_id": "Q2",
+      "retrieval_status": "hit",
+      "retrieved_doc_titles_top3": [
+        "Password reset and account recovery",
+        "Cash withdrawal processing",
+        "Document verification requirements"
+      ]
+    },
+    {
+      "expected_doc_titles": [
+        "Password reset and account recovery"
+      ],
+      "explanation": "Matched 1 of 1 expected title(s) in the top 3 at rank(s): Password reset and account recovery=1.",
+      "matched_expected_title": true,
+      "matched_expected_titles": [
+        "Password reset and account recovery"
+      ],
+      "query_id": "Q3",
+      "retrieval_status": "hit",
+      "retrieved_doc_titles_top3": [
+        "Password reset and account recovery",
+        "Cash withdrawal processing",
+        "Demo account behaviour"
+      ]
+    },
+    {
+      "expected_doc_titles": [
+        "Document verification requirements"
+      ],
+      "explanation": "Matched 1 of 1 expected title(s) in the top 3 at rank(s): Document verification requirements=1.",
+      "matched_expected_title": true,
+      "matched_expected_titles": [
+        "Document verification requirements"
+      ],
+      "query_id": "Q4",
+      "retrieval_status": "hit",
+      "retrieved_doc_titles_top3": [
+        "Document verification requirements",
+        "Cash withdrawal processing",
+        "Demo account behaviour"
+      ]
+    },
+    {
+      "expected_doc_titles": [
+        "Demo account behaviour"
+      ],
+      "explanation": "Matched 1 of 1 expected title(s) in the top 3 at rank(s): Demo account behaviour=1.",
+      "matched_expected_title": true,
+      "matched_expected_titles": [
+        "Demo account behaviour"
+      ],
+      "query_id": "Q5",
+      "retrieval_status": "hit",
+      "retrieved_doc_titles_top3": [
+        "Demo account behaviour",
+        "Password reset and account recovery",
+        "Cash withdrawal processing"
+      ]
+    }
+  ]
+}

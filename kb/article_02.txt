@@ -1,0 +1,8 @@
+Title: Cash withdrawal processing
+Section: Payments
+
+Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.
+Bank withdrawals may take 1 to 3 business days after approval.
+E-wallet withdrawals are typically processed within 4 hours after approval.
+If an account is under compliance review, withdrawals remain pending until the review is completed.
+Users can check the withdrawal status from the cashier history page.

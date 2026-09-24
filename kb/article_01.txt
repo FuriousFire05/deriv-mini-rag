@@ -1,0 +1,8 @@
+Title: Password reset and account recovery
+Section: Login help
+
+If a user forgets their password, they can request a reset email from the login page.
+Reset links expire after 30 minutes.
+For security reasons, support agents cannot see or manually reveal user passwords.
+If two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used.
+If backup codes are unavailable, the user must complete identity verification before 2FA can be reset.

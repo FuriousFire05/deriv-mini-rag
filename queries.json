@@ -1,0 +1,42 @@
+[
+  {
+    "query_id": "Q1",
+    "question": "I requested a bank withdrawal yesterday. How long can it take after approval?",
+    "expected_doc_titles": ["Cash withdrawal processing"],
+    "ground_truth_answer_points": [
+      "Bank withdrawals may take 1 to 3 business days after approval"
+    ]
+  },
+  {
+    "query_id": "Q2",
+    "question": "My reset link is not working after an hour. Is that expected?",
+    "expected_doc_titles": ["Password reset and account recovery"],
+    "ground_truth_answer_points": [
+      "Reset links expire after 30 minutes"
+    ]
+  },
+  {
+    "query_id": "Q3",
+    "question": "Can support tell me what my password currently is?",
+    "expected_doc_titles": ["Password reset and account recovery"],
+    "ground_truth_answer_points": [
+      "Support agents cannot see or manually reveal user passwords"
+    ]
+  },
+  {
+    "query_id": "Q4",
+    "question": "Will a utility bill from 8 months ago work for proof of address?",
+    "expected_doc_titles": ["Document verification requirements"],
+    "ground_truth_answer_points": [
+      "Utility bills older than 6 months are not accepted"
+    ]
+  },
+  {
+    "query_id": "Q5",
+    "question": "Can I withdraw profit made on a demo account?",
+    "expected_doc_titles": ["Demo account behaviour"],
+    "ground_truth_answer_points": [
+      "Demo profit cannot be withdrawn"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+Title: Document verification requirements
+Section: Verification
+
+Proof of identity documents must be valid and unexpired.
+Proof of address documents must show the user's full name, address, and issue date.
+Utility bills older than 6 months are not accepted.
+Bank statements older than 3 months are not accepted.
+Images must be clear, uncropped, and readable.

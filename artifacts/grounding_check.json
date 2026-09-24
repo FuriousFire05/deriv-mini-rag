@@ -1,0 +1,84 @@
+{
+  "aggregate": {
+    "failed": 0,
+    "passed": 5,
+    "total_queries": 5
+  },
+  "queries": [
+    {
+      "citations_retrieved": true,
+      "passed": true,
+      "query_id": "Q1",
+      "status": "supported",
+      "support_checks": [
+        {
+          "chunk_id": "chunk_216b41b9dbbbe29d",
+          "exact_substring": true,
+          "supported": true,
+          "token_overlap": 1.0
+        }
+      ],
+      "used_chunk_ids_retrieved": true
+    },
+    {
+      "citations_retrieved": true,
+      "passed": true,
+      "query_id": "Q2",
+      "status": "supported",
+      "support_checks": [
+        {
+          "chunk_id": "chunk_1cab2b31ebfcac2d",
+          "exact_substring": true,
+          "supported": true,
+          "token_overlap": 1.0
+        }
+      ],
+      "used_chunk_ids_retrieved": true
+    },
+    {
+      "citations_retrieved": true,
+      "passed": true,
+      "query_id": "Q3",
+      "status": "supported",
+      "support_checks": [
+        {
+          "chunk_id": "chunk_1cab2b31ebfcac2d",
+          "exact_substring": true,
+          "supported": true,
+          "token_overlap": 1.0
+        }
+      ],
+      "used_chunk_ids_retrieved": true
+    },
+    {
+      "citations_retrieved": true,
+      "passed": true,
+      "query_id": "Q4",
+      "status": "supported",
+      "support_checks": [
+        {
+          "chunk_id": "chunk_a2e043768fecec9f",
+          "exact_substring": true,
+          "supported": true,
+          "token_overlap": 1.0
+        }
+      ],
+      "used_chunk_ids_retrieved": true
+    },
+    {
+      "citations_retrieved": true,
+      "passed": true,
+      "query_id": "Q5",
+      "status": "supported",
+      "support_checks": [
+        {
+          "chunk_id": "chunk_593d336293fba128",
+          "exact_substring": true,
+          "supported": true,
+          "token_overlap": 1.0
+        }
+      ],
+      "used_chunk_ids_retrieved": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Title: Demo account behaviour
+Section: Trading
+
+Demo accounts use virtual funds and do not reflect real-market execution exactly.
+Prices may be delayed in some environments.
+Demo profit cannot be withdrawn.
+Users should switch to a real account to trade with real funds.

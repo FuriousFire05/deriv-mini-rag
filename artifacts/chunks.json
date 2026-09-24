@@ -1,0 +1,36 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "chunk_216b41b9dbbbe29d",
+      "doc_title": "Cash withdrawal processing",
+      "end_char": 402,
+      "section": "Payments",
+      "start_char": 0,
+      "text": "\nWithdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.\nBank withdrawals may take 1 to 3 business days after approval.\nE-wallet withdrawals are typically processed within 4 hours after approval.\nIf an account is under compliance review, withdrawals remain pending until the review is completed.\nUsers can check the withdrawal status from the cashier history page."
+    },
+    {
+      "chunk_id": "chunk_593d336293fba128",
+      "doc_title": "Demo account behaviour",
+      "end_char": 223,
+      "section": "Trading",
+      "start_char": 0,
+      "text": "\nDemo accounts use virtual funds and do not reflect real-market execution exactly.\nPrices may be delayed in some environments.\nDemo profit cannot be withdrawn.\nUsers should switch to a real account to trade with real funds."
+    },
+    {
+      "chunk_id": "chunk_a2e043768fecec9f",
+      "doc_title": "Document verification requirements",
+      "end_char": 294,
+      "section": "Verification",
+      "start_char": 0,
+      "text": "\nProof of identity documents must be valid and unexpired.\nProof of address documents must show the user's full name, address, and issue date.\nUtility bills older than 6 months are not accepted.\nBank statements older than 3 months are not accepted.\nImages must be clear, uncropped, and readable."
+    },
+    {
+      "chunk_id": "chunk_1cab2b31ebfcac2d",
+      "doc_title": "Password reset and account recovery",
+      "end_char": 428,
+      "section": "Login help",
+      "start_char": 0,
+      "text": "\nIf a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minutes.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used.\nIf backup codes are unavailable, the user must complete identity verification before 2FA can be reset."
+    }
+  ]
+}
