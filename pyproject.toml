@@ -1,7 +1,7 @@
 [project]
 name = "deriv-mini-rag"
 version = "0.1.0"
-description = "Add your description here"
+description = "Deterministic, replayable mini-RAG pipeline with local BM25 retrieval, citation-strict extractive answers, retrieval evaluation, and artifact validation."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
